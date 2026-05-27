@@ -61,7 +61,7 @@ const rohith = {
 <tr>
 <td width="80" align="center"><img src="https://img.shields.io/badge/🟢-Active-3dd8a0?style=flat-square" /></td>
 <td>
-<strong>Jobsyme</strong> — Full Stack Developer Intern<br/>
+<strong>Jobsyme</strong> — Full Stack Developer<br/>
 <sub>Aug 2025 – Present | Hyderabad</sub><br/><br/>
 • Built full-stack app with <strong>Next.js + Node.js</strong> on AWS with 5-person agile team<br/>
 • Designed <strong>Express microservices</strong> + DynamoDB with CloudWatch monitoring<br/>
